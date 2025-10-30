@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "7325107831",
+    "firebase_url": "https://studenthelperapp-febf1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "studenthelperapp-febf1",
+    "storage_bucket": "studenthelperapp-febf1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7325107831:android:3335b9acece322175a6872",
+        "android_client_info": {
+          "package_name": "com.example.studenthelperapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw4Xm4J8HDZJ0026pZ_MqHToE0phnhbuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
