@@ -27,6 +27,29 @@
         </activity>
 
         <activity
+            android:name=".ScheduleActivity"
+            android:exported="false"
+            android:theme="@style/Theme.StudentHelperApp" />
+
+
+        <activity
+            android:name=".MainMenuActivity"
+            android:exported="false"
+            android:theme="@style/Theme.StudentHelperApp" />
+
+        <activity
+            android:name=".ReminderActivity"
+            android:exported="false"
+            android:theme="@style/Theme.StudentHelperApp" />
+
+        <activity
+            android:name=".GpaCalculatorActivity"
+            android:exported="false"
+            android:theme="@style/Theme.StudentHelperApp" />
+
+
+
+        <activity
             android:name=".MainActivity"
             android:exported="false"
             android:theme="@style/Theme.StudentHelperApp" />
